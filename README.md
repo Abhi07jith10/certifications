@@ -4,7 +4,7 @@ This repository contains my verified professional certifications.
 
 ---
 
-## Introduction to Generative AI – Google Cloud
+1.Introduction to Generative AI – Google Cloud
 
 - **Platform:** Coursera  
 - **Issued To:** Abhijith S Sanal  
